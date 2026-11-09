@@ -6,6 +6,7 @@
 > by garbage collection — before you burn thousands on a destructive chip-off?*
 
 **Built for BSidesSF 2027 (Pier 27, Apr 3–4).** DFIR / anti-forensics track.
+**Repo:** https://github.com/p17433308-cmyk/dead-mens-tales
 
 ---
 

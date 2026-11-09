@@ -5,6 +5,7 @@
 **Track:** DFIR / Forensics (with anti-forensics crossover)
 **Theme tie-in:** 🏴‍☠️ Pirates — the *black spot*, scuttled ships, "dead men tell no tales"
 **Tool release:** BLACKSPOT (open-source, Apache-2.0) — first open tool for host-side SSD triage
+**Repo:** https://github.com/p17433308-cmyk/dead-mens-tales
 
 ---
 
