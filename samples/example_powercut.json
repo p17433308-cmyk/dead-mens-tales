@@ -1,0 +1,15 @@
+{
+  "drive": {
+    "model": "Castaway CX480 480GB",
+    "controller_family": "Phison E13",
+    "is_sed": false,
+    "trim_enabled": true,
+    "powered_down_since_trim": true,
+    "idle_seconds_since_delete": 5,
+    "firmware_claims_zero": false
+  },
+  "reads": [
+    {"lba": 300, "attempt": 1, "sha256": "aaaa1111aaaa1111aaaa1111aaaa1111aaaa1111aaaa1111aaaa1111aaaa1111", "all_zero": false, "timestamp": 0.0, "nonzero_fraction": 0.98, "shannon_entropy": 4.3},
+    {"lba": 300, "attempt": 2, "sha256": "aaaa1111aaaa1111aaaa1111aaaa1111aaaa1111aaaa1111aaaa1111aaaa1111", "all_zero": false, "timestamp": 1.0, "nonzero_fraction": 0.98, "shannon_entropy": 4.3}
+  ]
+}

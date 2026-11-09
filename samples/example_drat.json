@@ -1,0 +1,16 @@
+{
+  "drive": {
+    "model": "Treasure SX900 512GB",
+    "controller_family": "SandForce SF-2281",
+    "is_sed": false,
+    "trim_enabled": true,
+    "powered_down_since_trim": false,
+    "idle_seconds_since_delete": 45,
+    "firmware_claims_zero": false
+  },
+  "reads": [
+    {"lba": 100, "attempt": 1, "sha256": "3a7bd3e2360a3d29eea436fcfb7e44c735d117c42d1c1835420b6b9942dd4f1b", "all_zero": false, "timestamp": 0.0},
+    {"lba": 100, "attempt": 2, "sha256": "3a7bd3e2360a3d29eea436fcfb7e44c735d117c42d1c1835420b6b9942dd4f1b", "all_zero": false, "timestamp": 5.0},
+    {"lba": 100, "attempt": 3, "sha256": "3a7bd3e2360a3d29eea436fcfb7e44c735d117c42d1c1835420b6b9942dd4f1b", "all_zero": false, "timestamp": 10.0}
+  ]
+}

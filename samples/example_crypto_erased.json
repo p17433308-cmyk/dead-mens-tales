@@ -1,0 +1,14 @@
+{
+  "drive": {
+    "model": "FortKnox SED 2TB",
+    "controller_family": "Marvell Bravera",
+    "is_sed": true,
+    "crypto_erase_confirmed": true,
+    "trim_enabled": true,
+    "firmware_claims_zero": true
+  },
+  "reads": [
+    {"lba": 100, "attempt": 1, "sha256": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad", "all_zero": true, "timestamp": 0.0},
+    {"lba": 100, "attempt": 2, "sha256": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad", "all_zero": true, "timestamp": 5.0}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "drive": {
+    "model": "Acme NX500 1TB",
+    "controller_family": "Phison E12",
+    "is_sed": false,
+    "crypto_erase_confirmed": false,
+    "trim_enabled": true,
+    "powered_down_since_trim": false,
+    "idle_seconds_since_delete": 120,
+    "firmware_claims_zero": true
+  },
+  "reads": [
+    {"lba": 100, "attempt": 1, "sha256": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad", "all_zero": true, "timestamp": 0.0},
+    {"lba": 100, "attempt": 2, "sha256": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad", "all_zero": true, "timestamp": 5.0},
+    {"lba": 100, "attempt": 3, "sha256": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad", "all_zero": true, "timestamp": 10.0},
+    {"lba": 204, "attempt": 1, "sha256": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad", "all_zero": true, "timestamp": 0.0},
+    {"lba": 204, "attempt": 2, "sha256": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad", "all_zero": true, "timestamp": 5.0}
+  ]
+}

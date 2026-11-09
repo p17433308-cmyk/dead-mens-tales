@@ -1,0 +1,15 @@
+{
+  "drive": {
+    "model": "Rogue RX200 256GB",
+    "controller_family": "Silicon Motion SM2258",
+    "is_sed": false,
+    "trim_enabled": true,
+    "idle_seconds_since_delete": 30,
+    "firmware_claims_zero": false
+  },
+  "reads": [
+    {"lba": 100, "attempt": 1, "sha256": "1111111111111111111111111111111111111111111111111111111111111111", "all_zero": false, "timestamp": 0.0, "nonzero_fraction": 0.9, "shannon_entropy": 6.2},
+    {"lba": 100, "attempt": 2, "sha256": "2222222222222222222222222222222222222222222222222222222222222222", "all_zero": false, "timestamp": 1.0, "nonzero_fraction": 0.4, "shannon_entropy": 5.1},
+    {"lba": 100, "attempt": 3, "sha256": "3333333333333333333333333333333333333333333333333333333333333333", "all_zero": false, "timestamp": 2.0, "nonzero_fraction": 0.7, "shannon_entropy": 5.8}
+  ]
+}

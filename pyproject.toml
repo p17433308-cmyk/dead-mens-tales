@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "blackspot"
+version = "0.1.0"
+description = "Host-side SSD forensic triage & controller-behavior fingerprinting"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "Apache-2.0" }
+authors = [{ name = "Dead Men Tell No Tales project" }]
+keywords = ["forensics", "dfir", "ssd", "trim", "anti-forensics", "nand"]
+
+[project.scripts]
+blackspot = "blackspot.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
